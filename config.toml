@@ -1,0 +1,73 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Aditi Shenoy"
+
+theme = "hugo-casper-two-master"
+
+#disqusShortname = ""
+#paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Aditi Shenoy"
+  subtitle    = "| Bioinformatics | Data Science | Digital Health | "
+
+  cover       = "blog-cover.jpg"
+  description = ""
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "aditi_shenoy"
+  fbName = "aditi.shenoy.90"
+  githubName = "aditishenoy"
+  
+  logo = ""
+  #orgName = "EM"
+  #orgWebsite = "https://www.telematika.org"
+  #orgDescription = "Here is a description placeholder for your org"
+
+  author = "Aditi Shenoy"
+  authorAvatar = "bit-aditi.jpg"
+  authorLocation = "Bangalore, India"
+  authorWebsite = "https://aditishenoy.github.io"
+  authorDescription = "Coder | Developer "
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 150
+
+[[menu.main]]
+  name = "Articles"
+  url = "/categories/articles"
+  weight = 100
+
+#[[menu.main]]
+#  name = "Papers"
+#  url = "/papers"
+#  weight = 99
+
+#[[menu.main]]
+#  name = "Projects"
+#  url = "/projects"
+#  weight = 95
+
+[[menu.main]]
+  name = "The 30's List"
+  url = "/The 30s list"
+  weight = 80
