@@ -2,9 +2,9 @@
 title: "Could these global health problems soon become your problems?"
 date: 2019-08-23T22:09:01+05:30
 draft: false
-image: "globe.jpg"
-tags: []
-categories: ["articles"]
+image: "/img/globe.jpg"
+tags: ["Health"]
+categories: ["Health"]
 ---
 
 Across the world, technologies are being increasingly used to maximize productivity in the clinical space. Being a part of this change and learning to adapt to it would be of utmost importance in the coming years with the pressing challenges of the current healthcare systems in the world. 

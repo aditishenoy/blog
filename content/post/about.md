@@ -2,9 +2,13 @@
 title: "About"
 date: 2019-08-16T21:09:49+05:30
 draft: false
-image: 'insta_yoga.jpg'
+image: '/img/insta_yoga.jpg'
 tags: []
 categories: []
+comments: false
+noauthor: true
+share: true
+type: "page"
 ---
 
 
@@ -27,7 +31,7 @@ Having a strong growth-oriented mindset and a compelling urge to create an impac
 
 I am currently seeking full-time opportunities to solve life science challenges. If you think I have an interesting profile and would like to discuss similar interests, please get in touch via <aditi.shenoy95@hotmail.com>.
 
-Check out my resume [here](https://drive.google.com/file/d/15A2o3M2OZPiP2iffiSiZuVgisXe-BNlo/view?usp=sharing)
+Check out my resume [here](https://drive.google.com/file/d/15A2o3M2OZPiP2iffiSiZuVgisXe-BNlo/view?usp=sharing).
 
 
 You can also find me online on [LinkedIn](https://www.linkedin.com/in/aditi-shenoy-287060bb/), [Twitter](https://twitter.com/aditi_shenoy) or [Github](https://github.com/aditishenoy).

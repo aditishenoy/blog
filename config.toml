@@ -4,15 +4,16 @@ title = "Aditi Shenoy"
 
 theme = "hugo-casper-two-master"
 
-#disqusShortname = ""
-#paginate        = 6
+disqusShortname = "https-aditishenoy-github-io"
+paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
   title       = "Aditi Shenoy"
-  subtitle    = "| Bioinformatics | Data Science | Digital Health | "
+  subtitle    = "| Bioinformatics | Data Science | Digital Health |"
+  copyright   = "© 2019"
 
-  cover       = "blog-cover.jpg"
+  cover       = "/img/blog-cover.jpg"
   description = ""
   metaDescription = ""
   googleAnalytics = ""
@@ -22,22 +23,25 @@ theme = "hugo-casper-two-master"
   twitterName = "aditi_shenoy"
   fbName = "aditi.shenoy.90"
   githubName = "aditishenoy"
+  linkedinName = "aditi-shenoy-287060bb"
   
   logo = ""
-  #orgName = "EM"
+  orgName = "Aditi Shenoy"
   #orgWebsite = "https://www.telematika.org"
   #orgDescription = "Here is a description placeholder for your org"
 
+  showSupport = true
+  
   author = "Aditi Shenoy"
   authorAvatar = "bit-aditi.jpg"
   authorLocation = "Bangalore, India"
   authorWebsite = "https://aditishenoy.github.io"
-  authorDescription = "Coder | Developer "
+  #authorDescription = "Coder | Developer "
 
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "caspertwo"
+  singleViewStyle = "casper"
 
 [permalinks]
   post = "/:slug/"
@@ -54,7 +58,7 @@ theme = "hugo-casper-two-master"
 
 [[menu.main]]
   name = "Articles"
-  url = "/categories/articles"
+  url = "/categories"
   weight = 100
 
 #[[menu.main]]
@@ -62,10 +66,10 @@ theme = "hugo-casper-two-master"
 #  url = "/papers"
 #  weight = 99
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "/projects"
-#  weight = 95
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 95
 
 [[menu.main]]
   name = "The 30's List"
