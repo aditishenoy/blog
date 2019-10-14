@@ -1,7 +1,7 @@
 ---
 title: "How do I split my data?"
 date: 2019-08-24T19:40:37+05:30
-draft: false
+draft: true
 image: 
 tags: ["Data Science"]
 categories: ["blog"]

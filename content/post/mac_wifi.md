@@ -3,8 +3,8 @@ title: "“Wi-Fi: No Hardware Installed“ - What to do?"
 date: 2019-10-14T18:02:09+05:30
 draft: false
 image: "/img/stress.jpg"
-tags: ['Tech Tricks']
-categories: []
+tags: ["Tech Tricks"]
+categories: 
 ---
 
 Over the past couple of weeks I had been getting an error with the Wi-fi on my Macbook Air (2017). There was an 'x' in the Wi-fi symbol and on clicking the icon, the message read "Wi-Fi: No Hardware Installed".
