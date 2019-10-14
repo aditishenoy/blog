@@ -4,7 +4,7 @@ date: 2019-08-23T22:09:01+05:30
 draft: false
 image: "/img/globe.jpg"
 tags: ["Health"]
-categories: ["Health"]
+categories:
 ---
 
 Across the world, technologies are being increasingly used to maximize productivity in the clinical space. Being a part of this change and learning to adapt to it would be of utmost importance in the coming years with the pressing challenges of the current healthcare systems in the world. 

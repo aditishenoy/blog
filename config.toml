@@ -10,30 +10,32 @@ paginate        = 6
 
 [params]
   title       = "Aditi Shenoy"
-  subtitle    = "| Bioinformatics | Data Science | Digital Health |"
+  subtitle    = "I read. I write. I code."
   copyright   = "© 2019"
 
-  cover       = "/img/blog-cover.jpg"
+  cover       = "/img/sam.jpeg"
   description = ""
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
-  RSSLink = ""
+  #RSSLink = "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Faditishenoy.github.io%2Findex.xml"
 
-  twitterName = "aditi_shenoy"
-  fbName = "aditi.shenoy.90"
-  githubName = "aditishenoy"
   linkedinName = "aditi-shenoy-287060bb"
+  twitterName = "aditi_shenoy"
+  githubName = "aditishenoy"
+  #fbName = "aditi.shenoy.90"
+  #mediumName = "aditishenoy"
+  #tumblrName = "ms-quaintrelle"
   
   logo = ""
   orgName = "Aditi Shenoy"
   #orgWebsite = "https://www.telematika.org"
   #orgDescription = "Here is a description placeholder for your org"
 
-  showSupport = true
+  showSupport = false
   
   author = "Aditi Shenoy"
-  authorAvatar = "bit-aditi.jpg"
+  authorAvatar = "/img/bit-aditi.jpg"
   authorLocation = "Bangalore, India"
   authorWebsite = "https://aditishenoy.github.io"
   #authorDescription = "Coder | Developer "
@@ -57,13 +59,13 @@ paginate        = 6
   weight = 150
 
 [[menu.main]]
-  name = "Articles"
-  url = "/categories"
+  name = "Blog"
+  url = "/tags"
   weight = 100
 
 #[[menu.main]]
-#  name = "Papers"
-#  url = "/papers"
+#  name = "Thoughts"
+#  url = "/categories/thoughts"
 #  weight = 99
 
 [[menu.main]]
@@ -71,7 +73,7 @@ paginate        = 6
   url = "/projects"
   weight = 95
 
-[[menu.main]]
-  name = "The 30's List"
-  url = "/The 30s list"
-  weight = 80
+#[[menu.main]]
+#  name = "List"
+#  url = "/Quaintrelle's wish list"
+#  weight = 80
