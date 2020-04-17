@@ -2,78 +2,56 @@ baseURL = "https://aditishenoy.github.io"
 languageCode = "en-us"
 title = "Aditi Shenoy"
 
-theme = "hugo-casper-two-master"
+theme = "ezhil"
+copyright   = "Aditi Shenoy © 2020"
+#summaryLength = 20
+#paginate        = 6
 
-disqusShortname = "https-aditishenoy-github-io"
-paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
   title       = "Aditi Shenoy"
-  subtitle    = "I read. I write. I code."
-  copyright   = "© 2019"
-
-  cover       = "/img/sam.jpeg"
-  description = ""
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = []
-  #RSSLink = "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Faditishenoy.github.io%2Findex.xml"
-
-  linkedinName = "aditi-shenoy-287060bb"
-  twitterName = "aditi_shenoy"
-  githubName = "aditishenoy"
-  #fbName = "aditi.shenoy.90"
-  #mediumName = "aditishenoy"
-  #tumblrName = "ms-quaintrelle"
-  
-  logo = ""
-  orgName = "Aditi Shenoy"
-  #orgWebsite = "https://www.telematika.org"
-  #orgDescription = "Here is a description placeholder for your org"
-
-  showSupport = false
-  
-  author = "Aditi Shenoy"
-  authorAvatar = "/img/bit-aditi.jpg"
-  authorLocation = "Bangalore, India"
-  authorWebsite = "https://aditishenoy.github.io"
-  #authorDescription = "Coder | Developer "
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
-[permalinks]
-  post = "/:slug/"
+  subtitle    = "PhD Candidate in Protein Bioinformatics and Machine Learning"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
+name = "Home"
+url = "/"
+weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "/about"
-  weight = 150
+name = "About"
+url = "/about"
+weight = 2
 
 [[menu.main]]
-  name = "Blog"
-  url = "/tags/"
-  weight = 100
-
-#[[menu.main]]
-#  name = "Thoughts"
-#  url = "/categories/thoughts"
-#  weight = 99
+name = "Research"
+url = "/post"
+weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "/projects"
-  weight = 95
+name = "Articles"
+url = "/post"
+weight = 4
 
-#[[menu.main]]
-#  name = "List"
-#  url = "/Quaintrelle's wish list"
-#  weight = 80
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/vividvilla/ezhil"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/aditi-shenoy-287060bb/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/aditi_shenoy"  
+
+[taxonomies]
+   tag = "tags"
