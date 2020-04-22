@@ -2,14 +2,34 @@ baseURL = "https://aditishenoy.github.io"
 languageCode = "en-us"
 title = "Aditi Shenoy"
 
+
 theme = "ezhil"
+paginate = 5
+
 copyright   = "Aditi Shenoy © 2020"
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ezhil-demo"
+
+summaryLength = 20
+
 
 #SectionPagesMenu = "main"
 
 [params]
   title       = "Aditi Shenoy"
   subtitle    = "PhD Candidate in Protein Bioinformatics and Machine Learning"
+  disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "light" # "dark", "auto", "light"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
 
 [[menu.main]]
 name = "Home"
@@ -34,7 +54,7 @@ weight = 4
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[params.social]]
 name = "Github"
@@ -53,3 +73,4 @@ url = "https://twitter.com/aditi_shenoy"
 
 [taxonomies]
    tag = "tags"
+
