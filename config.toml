@@ -2,7 +2,7 @@ baseURL = "https://aditishenoy.github.io"
 languageCode = "en-us"
 title = "Aditi Shenoy"
 
-theme = "hugo-casper-two-master"
+theme = "ezhil"
 paginate = 5
 
 copyright   = "Aditi Shenoy © 2020"
@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ezhil-demo"
+disqusShortname = "aditishenoy"
 
 summaryLength = 20
 
@@ -40,10 +40,10 @@ name = "About"
 url = "/about"
 weight = 2
 
-[[menu.main]]
-name = "Research"
-url = "/post"
-weight = 3
+#[[menu.main]]
+#name = "Research"
+#url = "/post"
+#weight = 3
 
 [[menu.main]]
 name = "Articles"
@@ -58,7 +58,7 @@ weight = 5
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/vividvilla/ezhil"
+url = "https://github.com/aditishenoy"
 
 [[params.social]]
 name = "LinkedIn"

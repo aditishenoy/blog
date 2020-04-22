@@ -9,8 +9,9 @@ disqus: false
 #comments: false
 #noauthor: true
 #share: true
-#type: "page"
+type: "page"
 ---
+
 
 <!--I am a healthcare developer passionate about data science, medical technology and precision medicine. I am driven towards using artificial intelligence and adapting latest technologies to personalize value-based healthcare and facilitate global accessibility of quality care.-->
 
