@@ -2,6 +2,7 @@
 title: "About"
 date: 2019-08-16T21:09:49+05:30
 draft: false
+disqus: false
 #image: '/img/insta_yoga.jpg'
 #tags: []
 #categories: []

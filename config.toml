@@ -2,8 +2,7 @@ baseURL = "https://aditishenoy.github.io"
 languageCode = "en-us"
 title = "Aditi Shenoy"
 
-
-theme = "ezhil"
+theme = "tale"
 paginate = 5
 
 copyright   = "Aditi Shenoy © 2020"
