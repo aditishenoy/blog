@@ -12,7 +12,6 @@ disqus: false
 type: "page"
 ---
 
-
 <!--I am a healthcare developer passionate about data science, medical technology and precision medicine. I am driven towards using artificial intelligence and adapting latest technologies to personalize value-based healthcare and facilitate global accessibility of quality care.-->
 
 I am a PhD researcher in Protein Bioinformatics and Deep Learning at Science for Life Laboratory in Stockholm. I am currently working on using deep learning techniques to study sub-cellular localization in proteins i.e. predicting the signal in protein sequences to determine which area in the cell the protein will migrate to. 
