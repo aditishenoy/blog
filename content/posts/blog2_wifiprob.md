@@ -49,3 +49,7 @@ These were all again temporary fixes so I started looking for ways I could by-pa
 Soon after the internet was back to normal and working flawlessly, I installed a supplementary software patch that was available for macOS Mojave and shut it down. The next morning when I turned on my Mac, the internal Wi-fi adapter connected normally and the 'Wi-Fi: No Hardware Installed' disappeared. Despite the connection still being eratic, I alternate my use between the internal and external adapter. I am not sure how the internal adapter magically started working again but it is highly possible that it is linked with the recent Mojave update. 
 
 If this entire experience has taught me one thing, I would advice one to 'INSTALL SOFTWARE UPDATES' and not postpone it infinitely using the infamous 'Remind me later' option. Nevertheless, I am just happy the problem is now permanently fixed one way or the other.
+
+Edit : Make sure that the external adaptor has an updated version of the driver before installing an update for the operating system. 
+
+Once I learned to install software updates, I made sure to immediately install macOS Catalina as soon as it was out. It didn't strike me at the time that the driver I was using for the external adaptor was not compatible with macOS Catalina and was available only till macOS Mojave. Long story short, the internal wifi adaptor was unstable and external adaptor did not work. So I had to reformat my Macbook Air and reinstall macOS Mojave to have access to internet. 
