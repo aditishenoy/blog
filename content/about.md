@@ -11,7 +11,7 @@ I am a graduate with a Masters in Science (M.Sc.) in Health Informatics from Kar
 
 If you think I have an interesting profile and would like to discuss similar interests, please get in touch via <aditishenoy@outlook.in>.
 
-Check out my resume [here](https://drive.google.com/file/d/15A2o3M2OZPiP2iffiSiZuVgisXe-BNlo/view?usp=sharing).
+<!--Check out my resume [here](https://drive.google.com/file/d/15A2o3M2OZPiP2iffiSiZuVgisXe-BNlo/view?usp=sharing).-->
 
-You can also find me online on [LinkedIn](https://www.linkedin.com/in/aditi-shenoy-287060bb/), [Twitter](https://twitter.com/aditi_shenoy) or [Github](https://github.com/aditishenoy).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/aditi-shenoy-287060bb/), [Twitter](https://twitter.com/aditi_shenoy) or [Github](https://github.com/aditishenoy).
 

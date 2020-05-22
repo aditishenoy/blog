@@ -176,4 +176,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 True
 ```
 
-And eveything was right with the world again...
+And everything was right with the world again...
+
+
+Among the countless tabs I referred to, these were especially useful to me. 
+
+* [Cuda Toolkit Documentation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#introduction)
+
+* [Blog post by Mark Buckler](http://www.markbuckler.com/post/install-cuda/)
+
+* [Singularity documentation](https://sylabs.io/guides/3.5/user-guide/gpu.html)
+
+* [Singularity Google Group](https://groups.google.com/a/lbl.gov/forum/#!msg/singularity/CezfXNjLGe0/OayDEcSUBQAJ)
+
+* and my best friend who gave me both good and bad solutions to my errors- Stack Overflow
