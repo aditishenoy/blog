@@ -5,7 +5,9 @@ draft: false
 disqus: false
 ---
 
-I am a PhD researcher in Protein Bioinformatics and Deep Learning at Science for Life Laboratory in Stockholm. I am currently working on using deep learning techniques to study sub-cellular localization in proteins i.e. predicting the signal in protein sequences to determine which area in the cell the protein will migrate to. 
+![alt text](resources/_gen/images/0.jpg)
+
+I am a PhD researcher in Protein Bioinformatics and Deep Learning at Science for Life Laboratory in Stockholm. I am currently working on using deep learning techniques to study and predict protein binding properties. 
 
 I am a graduate with a Masters in Science (M.Sc.) in Health Informatics from Karolinska Institutet, a renowned and leading medical university in Europe. I have a background in Biotechnology Engineering from Manipal Institute of Technology, India. My interdisciplinary background gives me broad insights in the fields of genomics, proteomics, healthcare as well as information technology and data science.
 
